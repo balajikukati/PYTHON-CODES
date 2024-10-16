@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+azure-ai-formrecognizer
+python-dotenv
+openai
+httpx
+python-docx
+pymongo
